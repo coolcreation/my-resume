@@ -1,2 +1,2 @@
 # my-resume
-Uploading a current version of my resume to reflect current studies. Agile and C# along with .NET are are main focus for now. I love software development, it's awesome. Thanks for stopping by!
+Uploading a current version of my resume to reflect current studies. My previous studies have been Javascript, Python, C#, Agile, ASP .NET CORE, and SQL Server with a minimal amount of GIT. Spring 2025 Semester will focus on .NET Maui, more indepth version control and team tools, plus Django. I love software development and finding solutions to build great Apps. Thanks for stopping by!
