@@ -19,4 +19,5 @@
   
 **I'm super passionate about software development and strive to find sustainable solutions for building great Apps.**  
 **Please reach out and check out my resume: [Jeff Bohn](https://coolcreation.github.io/my-resume/)**  
-**I'm looking for a great team to work with. Thanks for stopping by!**
+**I'm looking for a great team to work with.**    
+**Thanks for stopping by!**
