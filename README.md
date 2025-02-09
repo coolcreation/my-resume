@@ -17,5 +17,4 @@
 - Docker / Containers
 - React
   
-### I'm super passionate about software development and finding solutions to build great Apps.  
-### Thanks for stopping by!
+### I'm super passionate about software development and finding solutions to build great Apps. Please reach out, I'm looking for a grat team to work with. Thanks for stopping by!
