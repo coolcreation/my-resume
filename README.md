@@ -13,7 +13,8 @@
 
 **Spring 2025 Semester focus / current studies:**  
 - .NET Maui
-- GIT / Github with CICD  
+- GIT / Github with CICD 
+- TDD & Automated Testing: PyTest, Jest, NUnit   
 - Docker / Containers
 - React
   
