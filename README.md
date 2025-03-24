@@ -11,11 +11,12 @@
 - ASP .NET CORE MVC  
 - SQL Server / Sqlite
 - React / Node
+- .NET Maui
 
 **Spring 2025 Semester focus / current studies:**  
-- .NET Maui
 - GIT / Github with CICD 
-- TDD & Automated Testing: PyTest, Jest, NUnit   
+- TDD & Automated Testing: PyTest, Jest, NUnit
+- Deeper understanding of API's  
 - Docker / Containers
 - Playwright
 - MongoDB
