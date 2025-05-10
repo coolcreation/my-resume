@@ -134,6 +134,9 @@ body {
   .footer a:hover{
     color: rgb(0, 148, 0) !important;
   }
+.fa-check{
+  color: cornflowerblue !important;
+}
 
   
 @media (min-width: 992px) {
