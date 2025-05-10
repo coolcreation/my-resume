@@ -1,6 +1,9 @@
 /*  
 Jeff Bohn  9/20/2023
 resume.css
+
+
+This file will be updated as needed
 */
 
 
@@ -26,13 +29,20 @@ body {
     line-height: 1;
     font-size: clamp(2.3rem, 3.5vw, 2.9rem)
   } 
+
+  a:hover{
+    color: rgb(0, 148, 0) !important;
+  }
+
   .text-primary{
-    color: #bd5d38 !important;
+    /* color: #bd5d38 !important; */
+    color: limegreen !important;
   }
   .text-primary-date{
     font-size: 1.1rem;
     font-weight: 600;
-    color: #bd5d38 !important;
+    /* color: #bd5d38 !important; */
+    color: limegreen !important;
   }
   p.lead {
     font-size: 1.15rem;
@@ -56,16 +66,17 @@ body {
   #sideNav {
     padding-left: 1rem;
     padding-right: 1rem;
-    background-color: #bd5d38 !important;
+    /* background-color: #bd5d38 !important; */
+    background-color: #2e2e2e !important;
   }
   #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 800;
     letter-spacing: 0.05rem;
     text-transform: uppercase;
   }
-  #sideNav .navbar-toggler:focus {
+  /* #sideNav .navbar-toggler:focus {
     outline-color: #d48a6e;
-  }
+  } */
   .social-icons .social-icon {
     display: inline-flex;
     align-items: center;
@@ -81,9 +92,7 @@ body {
   .social-icons .social-icon:last-child {
     margin-right: 0;
   }
-  .social-icons .social-icon:hover {
-    background-color: #bd5d38;
-  }
+
   .dev-icons {
     font-size: 3rem;
   }
@@ -104,11 +113,28 @@ body {
     width: 100%;
   }
   .resume-section-content .subheading a{
-     color: #bd5d38;
-  }
+     /* color: #bd5d38; */
+     color: limegreen
+    }
   .resume-section-content .subheading a:hover{
      color: #974a2d;
-}
+  }
+  .footer{
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    height: 200px;
+  }
+  .footer *{
+    text-decoration: none;
+  }
+  .footer a{
+    color: limegreen !important;
+  }
+  .footer a:hover{
+    color: rgb(0, 148, 0) !important;
+  }
+
   
 @media (min-width: 992px) {
     body {
